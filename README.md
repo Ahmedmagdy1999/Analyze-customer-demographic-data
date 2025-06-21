@@ -58,11 +58,14 @@ The dataset included the following fields:
 - Insight summary and business-focused recommendations  
 
 ## 📷 Screenshots
+![dashborad3](https://github.com/user-attachments/assets/a15c842d-aa07-4009-9fdb-1a6b47d6b674)
 
+![dashborad3](https://github.com/user-attachments/assets/4ea3dbda-f8f2-41bd-b860-7a3e2ea36b70)
+![pvt2](https://github.com/user-attachments/assets/07a5f8bd-36d7-4534-b811-67c8878caf98)
+![piv1JPG](https://github.com/user-attachments/assets/e4ee9024-05b5-4c46-baa4-3ee290fde6af)
 
 ## 🔗 Live File Access
 
-*If you'd like to share the Drive link as a public preview (optional):*  
 [View the Excel Report]([your_google_drive_link_here](https://drive.google.com/drive/folders/1VU0eXqDexog2ZOU4Nc4gQh1cEXRop1qI?usp=sharing))
 
 ---
